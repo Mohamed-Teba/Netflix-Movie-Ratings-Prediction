@@ -95,9 +95,7 @@ Once the repository is populated, follow these steps to set up and run the proje
 
 ## 👤 Author
 
-**Mohamed Ibrahim Hussein Hussein Teba**  
-🆔 ID: 2305026  
-🏫 Faculty of Computer and Data Science, Alexandria University  
+- **Mohamed Teba**   
 
 ---
 
@@ -110,7 +108,7 @@ Once the repository is populated, follow these steps to set up and run the proje
 
 ## 📜 License
 
-This project will be licensed under the MIT License. See the [LICENSE](LICENSE) file for details once available.
+This project will be licensed under the MIT License.
 
 ---
 
